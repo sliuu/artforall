@@ -1,10 +1,10 @@
 Art 4 All Project Website
 by Stephanie Liu, Joyce Wang, Cliff Makanda
 
-	Icons:
+Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 
-	Other:
+Other:
 		jQuery (jquery.com)
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 		CSS3 Pie (css3pie.com)
