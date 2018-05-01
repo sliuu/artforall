@@ -560,6 +560,11 @@
 			padding: 0.5em 0;
 		}
 
+    .button.little {
+      padding: 0;
+      line-height: 3;
+    }
+
 /* Wrapper */
 
 	.wrapper {
@@ -572,7 +577,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
+			background-color: #b2d1f9;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -825,7 +830,7 @@
 			-o-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(52, 27, 43, 0.5);
+			background: rgba(214, 58, 45, 0.3);
 			color: white;
 			display: inline-block;
 			opacity: 0;
